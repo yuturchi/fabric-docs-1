@@ -1,4 +1,4 @@
-﻿---
+---
 title: Retention and recovery in Fabric
 description: Learn how retention and recovery work for deleted workspaces and items in Fabric, including retention periods and what gets restored.
 author: dknappettmsft
@@ -77,7 +77,6 @@ The following item types support soft-delete and recovery:
 - ML model
 - Notebook
 - Ontology *(preview)*
-- Operational agent *(preview)*
 - Real-Time Dashboard
 - Spark job definition
 - SQL database *(preview)*
