@@ -1,4 +1,4 @@
----
+﻿---
 title: Retention and recovery in Fabric
 description: Learn how retention and recovery work for deleted workspaces and items in Fabric, including retention periods and what gets restored.
 author: dknappettmsft
